@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\Source\\Repos\\TestDetails\\TestDetails.csproj": {}
+    "C:\\Users\\patri\\source\\repos\\TestDetails\\TestDetails.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\Source\\Repos\\TestDetails\\TestDetails.csproj": {
+    "C:\\Users\\patri\\source\\repos\\TestDetails\\TestDetails.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\Source\\Repos\\TestDetails\\TestDetails.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\source\\repos\\TestDetails\\TestDetails.csproj",
         "projectName": "TestDetails",
-        "projectPath": "C:\\Users\\patri\\Source\\Repos\\TestDetails\\TestDetails.csproj",
+        "projectPath": "C:\\Users\\patri\\source\\repos\\TestDetails\\TestDetails.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\Source\\Repos\\TestDetails\\obj\\",
+        "outputPath": "C:\\Users\\patri\\source\\repos\\TestDetails\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
