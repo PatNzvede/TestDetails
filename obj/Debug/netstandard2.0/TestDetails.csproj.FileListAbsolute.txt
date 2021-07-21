@@ -1,0 +1,14 @@
+C:\Users\patri\source\repos\TestDetails\bin\Debug\netstandard2.0\TestDetails.deps.json
+C:\Users\patri\source\repos\TestDetails\bin\Debug\netstandard2.0\TestDetails.dll
+C:\Users\patri\source\repos\TestDetails\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\patri\source\repos\TestDetails\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\patri\source\repos\TestDetails\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\patri\source\repos\TestDetails\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\patri\source\repos\TestDetails\obj\Debug\netstandard2.0\TestDetails.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\TestDetails\obj\Debug\netstandard2.0\TestDetails.AssemblyInfo.cs
+C:\Users\patri\source\repos\TestDetails\obj\Debug\netstandard2.0\TestDetails.csproj.CopyComplete
+C:\Users\patri\source\repos\TestDetails\bin\Debug\netstandard2.0\TestDetails.pdb
+C:\Users\patri\source\repos\TestDetails\obj\Debug\netstandard2.0\TestDetails.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\TestDetails\obj\Debug\netstandard2.0\TestDetails.dll
+C:\Users\patri\source\repos\TestDetails\obj\Debug\netstandard2.0\TestDetails.pdb
+C:\Users\patri\Source\Repos\TestDetails\obj\Debug\netstandard2.0\TestDetails.csprojAssemblyReference.cache
